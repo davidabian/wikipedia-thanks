@@ -1,4 +1,4 @@
-# Wikipedia Thanks: CSV reproduction
+# Wikipedia Thanks network extraction pipeline
 
 Regenerate the analytical edge and node CSVs, the compressed audit CSVs, and the site-context CSV for the 334-site release: https://doi.org/10.5281/zenodo.22738578.
 
